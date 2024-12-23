@@ -1,0 +1,4 @@
+VN101 VietnamAirlines Hanoi HoChiMinh 25/12/2024 14:30 16:45 48 Economy 20.00
+VN102 VietnamAirlines Hanoi HoChiMinh 25/12/2024 18:00 20:30 30 Business 30.00
+VN103 BambooAirways Danang Hanoi 26/12/2024 08:00 09:45 22 Economy 15.00
+VN104 VietJetAir HoChiMinh Danang 27/12/2024 12:15 13:45 38 Economy 10.00

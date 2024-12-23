@@ -1,0 +1,229 @@
+Received from client: 
+register haru haru@gmail.com caophong
+Sent to client: 
+Register failed
+Received from client: 
+register caophong phongle@gmail.com phongle
+Sent to client: 
+Register success
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+book VN101 1 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+book VN105 1 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+See Ticket
+Received from client: 
+login user2 pass2
+Sent to client: 
+LOGIN_SUCCESS user2
+Received from client: 
+book VN104 2 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 3 
+Received from client: 
+Cancel VN101 1
+Received from client: 
+Cancel VN101 1
+Received from client: 
+See Ticket
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+Cancel VN101 1
+Received from client: 
+Cancel VN103 1
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+See Ticket
+Received from client: 
+Cancel VN101 1
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 2 
+Received from client: 
+See Ticket
+Received from client: 
+Cancel VN101 1
+Received from client: 
+book VN101 1 
+Received from client: 
+book VN101 2 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 3 
+Received from client: 
+See Ticket
+Received from client: 
+Cancel VN101 1
+Received from client: 
+login user2 pass2
+Sent to client: 
+LOGIN_SUCCESS user2
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+See Ticket
+Received from client: 
+Cancel VN101 2
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 2 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 2 
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+See Ticket
+Received from client: 
+Cancel VN101 1
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+search Hanoi HoChiMinh 25/12/2024 26/12/2024 2 Economy
+Sent to client: 
+search Hanoi HoChiMinh 25/12/2024 26/12/2024 2 Economy
+Received from client: 
+compare Hanoi HoChiMinh 25/12/2024 26/12/2024 2 Economy
+Sent to client: 
+Sorted by price:
+VN101 VietnamAirlines Hanoi -> HoChiMinh 25/12/2024 14:30 Economy 20.00
+
+Sorted by duration:
+VN101 VietnamAirlines Hanoi -> HoChiMinh 25/12/2024 14:30 Economy    2h 15m
+
+Received from client: 
+login user1 pass1
+Sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 1 
+Received from client: 
+See Ticket
+Received from client: 
+Cancel VN101 1
+Received from client: 
+book VN101 2 
+Received from client: 
+Cancel VN101 1
+Received from client: 
+Cancel VN101 1
+Received from client: 
+book VN101 1 
+Received from client: 
+Cancel VN101 2
+Received from client: 
+register nguyen1 nguyenthao123lgf2@gmail.com pass1
+Sent to client: 
+Register success
+Received from client: 
+login nguyen1 pass1
+Sent to client: 
+LOGIN_SUCCESS nguyen1

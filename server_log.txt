@@ -1,0 +1,32 @@
+Received from client: 
+login user1 pass1
+Received sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 2 
+Sent to client: 
+book VN101 2 
+Received from client: 
+login user1 pass1
+Received sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+book VN101 2 
+Sent to client: 
+book VN101 2 
+Received from client: 
+login user1 pass1
+Received sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+login user1 pass1
+Received sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+login user1 pass1
+Received sent to client: 
+LOGIN_SUCCESS user1
+Received from client: 
+login user2 pass2
+Received sent to client: 
+Login failed
